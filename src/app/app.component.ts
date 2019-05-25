@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'InputOutput1';
+money= "100000000";
+property="house";
+public CData: number;
 }
